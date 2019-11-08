@@ -1,0 +1,7 @@
+{
+	"token": "ENTER TOKEN HERE",
+	"prefix": "!",
+	"botChannelName": "bot-commands",
+	"categoryName": "PLAY-GAMES",
+	"challengesChannelName": "challenges"
+}
